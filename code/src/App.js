@@ -1,12 +1,15 @@
 import React from 'react';
 import data from './data.json';
+import { Header } from 'components/Header';
+import { NewsList } from 'components/NewsList';
 
-console.log(data);
+// console.log(data);
 
 export const App = () => {
   return (
-    <div>
-      Find me in src/app.js!
-    </div>
+    <section>
+      <Header title="Hello World" />
+      <NewsList articlesList={data} />
+    </section>
   );
 }

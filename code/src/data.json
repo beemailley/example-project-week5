@@ -5,7 +5,7 @@
 			"title": "Title one",
 			"description": "Description one",
 			"date": "03/09/2022",
-			"image": "https://www.placecage.com/200/300",
+			"image": "https://picsum.photos/300/300",
 			"tags": ["Programming", "React", "Learning"]
 		},
 		{
@@ -13,7 +13,7 @@
 			"title": "Title two",
 			"description": "Description two",
 			"date": "03/15/2022",
-			"image": "https://www.placecage.com/c/200/300",
+			"image": "https://picsum.photos/300/300",
 			"tags": ["Programming"]
 		},
 		{
@@ -21,7 +21,7 @@
 			"title": "Title three",
 			"description": "Description three",
 			"date": "02/10/2022",
-			"image": "https://www.placecage.com/200/300",
+			"image": "https://picsum.photos/300/300",
 			"tags": ["React", "Learning"]
 		}
 	]
